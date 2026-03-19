@@ -1,0 +1,21 @@
+{
+  "name": "Audio Hub - Player & Konverter",
+  "short_name": "AudioHub",
+  "description": "Dein privater Stream für Musik und lokaler Audio-Konverter.",
+  "id": "/audiohub",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#1db954",
+  "orientation": "portrait",
+  "dir": "ltr",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
